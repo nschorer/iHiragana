@@ -1,0 +1,206 @@
+&Before you start...
+Each lesson contains 4 sections. The first section is the lesson overview. The lesson overview will alert you to anything you may want to keep in mind as you study the characters.^^The second section is the character study section. In this section, we show you a character and provide a mnemonic for remembering it. While you do not have to use our mnemonics, it is crucial to use SOME mnemonic to help you remember the 46 characters and keep them distinct in your head. In this section we will also provide you with example  words that contain the characters you just learned. You are not expected to memorize these words: they are merely included to provide context for what you have learned. However, you should take time to see how to put together Japanese words and also use these words to review characters that you have already learned.^^The third section is for drawing practice. You will be asked to draw the outline of a character 3 times before being asked to draw the character on your own. It is important that you draw the character with the correct stroke order (which we carefully guide you through).^^In the last section, you will take a multiple choice quiz to see how well you remembered the characters.
+*1. The Vowels: A,E,I,O,U
+Nearly every character, and thus every sound, in Japanese contains a vowel sound. The vowels are always pronounced the same way. As we learn these characters, make sure to have the right vowel associated with each character as that will affect how you learn every other character.
+@A
+a.png
+The character for A is pronounced "Ah" as in "car". From now on, every character that has an A in it will rhyme with this character.^^Doesn't it look like an (A)ntenna with all of its wires crossed? And look! You can even see an "A" in the bottom-right corner of the character.
+a0.png,a1.png,a2.png,a3-1.png,a3-2.png,a4.png
+@E
+e.png
+The character for E is pronounced "Eh" as in "ten". This character looks like somebody who is running to the right. See how their hair is flying back and their arms are flying behind them. They must be getting good (E)xercise running that fast!
+e0.png,e1.png,e2-1.png,e2-2.png,e3.png
+@I
+i.png
+The character for I is pronounced "ee" as in "eel". In fact, (I) looks like a pair of eels swimming next to each other. Many adjectives in Japanese end in い so we will see it appear in many of our examples.^^Words you can write:^あい (A-I) = love^いいえ (I-I-E) = no
+i0.png,i1.png,i2.png,i3.png
+@O
+o.png
+The character for O is pronounced "Oh" as in "hole". The bottom part of the character shows a golf green and the cross part is the flag. The golf ball is flying towards the green from the upper-right corner, and it looks like it's going to be a hole in (O)ne.^^Words you can write:^あおい (A-O-I) = blue
+o0.png,o1.png,o2-1.png,o2-2.png,o3.png,o4.png
+@U
+u.png
+The character for U is pronounced "Ooh" as in "food". The top part of the character is a person's head and the bottom part is the outline of the arms, torso, and legs. Now imagine that the reason their body is curved that way is because somebody to their left is punching them in the gut. Ooh[U], that must hurt! All verbs in Japanese end in a sound that rhymes with う.^^Words you can write:^ あう(A-U) = to meet (somebody)^いう(I-U) = to say
+u0.png,u1.png,u2.png,u3.png
+*2. K- Characters: Ka,Ke,Ki,Ko,Ku
+From here on out, every character we learn will be some combination of consonant and one of the vowels we learned in the previous lesson (with one exception that we will see later on).
+@Ka
+ka.png
+The left part of the character looks like an axe that is about to cut[Ka] the sausage on the right.^^Words you can write:^かお (Ka-O) = face^かう (Ka-U) = to buy
+ka0.png,ka1.png,ka2.png,ka3.png,ka4.png
+@Ke
+ke.png
+It's just a simple (Ke)g. The horizontal line is the ring around the barrel.
+ke0.png,ke1.png,ke2.png,ke3.png,ke4.png
+@Ki
+ki.png
+Sometimes this character is written with a curved line connecting the left part of the horizontal line on the bottom with the bottom right portion of the rest of the character. Imagine that curved line being there now. It looks like the loop on the end of a key[Ki].^^Words you can write:^あき (A-Ki) = autumn^おおきい (O-O-Ki-I) = big
+ki0.png,ki1.png,ki2.png,ki3.png,ki4.png,ki5.png
+@Ko
+ko.png
+This character is pretty simple, and if you connect the top and bottom strokes with curved lines on the left and right sounds, we have a nice round coin[Ko].^^Words you can write:^こえ (Ko-E) = voice^こい (Ko-I) = love
+ko0.png,ko1.png,ko2.png,ko3.png
+@Ku
+ku.png
+This one is nice and short. See how it looks like a giant beak of a Cuckoo[Ku] bird?^^Words you can write:^あく (A-Ku) = to open^いく (I-Ku) = to go^かく (Ka-Ku) = to write
+ku0.png,ku1.png,ku2.png
+*3. S- Characters: Sa,Se,Shi,So,Su
+This is the first time we see an "irregular" character. Fortunately, Shi is a relatively easy character. It will end up coming up in a bunch of later lessons so make sure you really memorize it.
+@Sa
+sa.png
+Look on the ground, there is another sausage! We lost our axe from earlier, but we can cut it up with this (Sa)murai sword!^^Words you can write:^あさ (A-Sa) = morning^さけ (Sa-Ke) = Sake^かさ (Ka-Sa) = umbrella
+sa0.png,sa1.png,sa2.png,sa3.png,sa4.png
+@Se
+se.png
+Here's a fun game: how many times can you trace the number (Se)ven in this character?^^Words you can write:^せいせき (Se-I-Se-Ki) = grade (school)
+se0.png,se1.png,se2.png,se3.png,se4.png
+@Shi
+shi.png
+She[Shi] has a long ponytail. This is the first irregular character that we have seen, and it's important that you remember it is "Shi" and NOT "Si".^^Words you can write:^しお(Shi-O) = salt^あし (A-Shi) = leg/foot^しあい (Shi-A-I) = match (sports)
+shi0.png,shi1.png,shi2.png
+@So
+so.png
+The diagonal pattern of this character looks like a sewing[So] stitch.^^Words you can write:^そこ (So-Ko) = there (by you)
+so0.png,so1-1.png,so1-2.png,so1-3.png,so1-4.png,so2.png
+@Su
+su.png
+Su looks like a pig's tail, and farmers call pigs over by saying "Sooey!"^^Words you can write:^^いす (I-Su) = chair^けす (Ke-Su) = to turn off (a light)
+su0.png,su1.png,su2-1.png,su2-2.png,su3.png
+*4. T- Characters: Ta,Te,Chi,To,Tsu
+Here we have another couple of irregular characters. Like Shi, Chi will come up a bunch later on. Tsu has another function which we will learn about soon.
+@Ta
+ta.png
+The character looks like "ta". The "t" is clearly there and you just need to fill in the other bit to make "a".^^Words you can write:^たたかう (Ta-Ta-Ka-U) = to fight^あたたかい (A-Ta-Ta-Ka-I) = warm^した (Shi-Ta) = under
+ta0.png,ta1.png,ta2.png,ta3.png,ta4.png,ta5.png
+@Te
+te.png
+It's a (Te)nnis racket with half of the head broken off.^^Words you can write:^て (Te) = hand^てき (Te-Ki) = enemy
+te0.png,te1-1.png,te1-2.png,te2.png
+@Chi
+chi.png
+Imagine a cheerleader jumping in the air with her arms spread out wide and her legs curled under her. Go team! This is another irregular character. Remember it as "Chi" and NOT "Ti".^^Words you can write:^ちいさい (Chi-I-Sa-I) = small^くち (Ku-Chi) = mouth^いち (I-Chi) = One
+chi0.png,chi1.png,chi2-1.png,chi2-2.png,chi3.png
+@To
+to.png
+There's a nail in my (To)e, ouch!^^Words you can write:^とおい (To-O-I) = far^あと (A-To) = after^とし (To-Shi) = city
+to0.png,to1.png,to2.png,to3.png
+@Tsu
+tsu.png
+This character looks like a big (Tsu)nami wave.^^Words you can write:^あつい (A-Tsu-I) = hot^つき (Tsu-Ki) = moon^かつ (Ka-Tsu) = to win
+tsu0.png,tsu1.png,tsu2.png
+*5. N- Characters: Na,Ne,Ni,No,Nu
+No irregular characters in this lesson. Watch out for Ne and Nu: Ne looks a lot like other characters which we will encounter later. Nu also looks like a character we will see later.
+@Na
+na.png
+There is a nun[Na] on the right kneeling and praying in front of a cross on the left.^^Words you can write:^なつ (Na-tsu) = summer^なく (Na-Ku) = to cry
+na0.png,na1.png,na2.png,na3.png,na4-1.png,na4-2.png,na5.png
+@Ne
+ne.png
+The person standing on the left is casting out a fishing round. See the hook in the bottom-right corner? That should help them (Ne)t a big fish! This is the first of three characters that look very similar. In order to help you distinguish this from the other two, remember the loop in the bottom right corner.^^Words you can write:^ねこ (Ne-Ko) = cat^ねつ (Ne-Tsu) = fever
+ne0.png,ne1.png,ne2-1.png,ne2-2.png,ne2-3.png,ne2-4.png,ne3.png
+@Ni
+ni.png
+The characters looks like somebody's knee[Ni]: the vertical line is their shin and the horizontal lines are their thigh.^^Words you can write:^あに (A-Ni) = older brother^にく (Ni-Ku) = meat
+ni0.png,ni1.png,ni2.png,ni3.png,ni4.png
+@No
+no.png
+It looks just like a (No)-smoking sign (without the cigarette in the middle).
+no0.png,no1-1.png,no1-2.png,no2.png
+@Nu
+nu.png
+It's a pair of chopsticks holding a noodle[Nu]. This character is similar to another character we will see later. Make special note of the loop in the bottom-right corner.^^Words you can write:^ぬの (Nu-No) = cloth^いぬ (I-Nu) = dog
+nu0.png,nu1.png,nu2-1.png,nu2-2.png,nu2-3.png,nu3.png
+*6. H- Characters: Ha,He,Hi,Ho,Hu
+These characters are pretty straight forward, with the exception of Hu/Fu which has a complicated pronounciation.
+@Ha
+ha.png
+See the two vertical lines and the horizontal line. That's an "H". Now look at the loop in the bottom right corner. If you tilt your head, it's the letter "a". Together they spell "Ha".^^Words you can write:^はい (Ha-I) = yes^はな (Ha-Na) = flower
+ha0.png,ha1.png,ha2.png,ha3-1.png,ha3-2.png,ha4.png
+@He
+he.png
+It's a pile of hay[He]. Or maybe it's an arrow pointing to (He)aven.^^Words you can write:^へいき (He-I-Ki) = calm^へた (He-Ta) = unskilled (at something)
+he0.png,he1.png,he2.png
+@Hi
+hi.png
+It's the outline of the mouth of somebody who is giggling a lot (Hee, hee, hee!).^^Words you can write:^ひ (Hi) = fire^ひ (Hi) = day
+hi0.png,hi1-1.png,hi1-2.png,hi1-3.png,hi2.png
+@Ho
+ho.png
+Look at that character: it's trying to disguise itself as the character は(Ha), but the hat that it is wearing clearly gives it away as a (Ho)ax.^^Words you can write:^ほし (Ho-Shi) = star^ほね (Ho-Ne) = bone
+ho0.png,ho1.png,ho2.png,ho3.png,ho4-1.png,ho4-2.png,ho5.png
+@Hu/Fu
+hu.png
+This character kind of looks like a volcano with steam coming out the top...kind of like Mt. (Fu)ji! This character is unusual in that's pronounciation varies between "Fu" and "Hu". The best thing to do for now is remember it as both: it should be "Hu" because it's part of the H-characters, and it should be "Fu" because it looks like Mt. Fuji.^^Words you can write:^ふね　(Fu-Ne) = boat^ふうふ (Fu-U-Fu) = spouses^ふく (Fu-Ku) = clothes
+hu0.png,hu1.png,hu2.png,hu3.png,hu4.png,hu5.png
+*7. M- Characters: Ma,Me,Mi,Mo,Mu
+Again, these characters are not too tricky. Just like Ha and Ho, Ma and Mo are similar characters. Don't mix them up!
+@Ma
+ma.png
+Ahh, it's a monster[Ma]! Look, it has 4 arms!^^Words you can write:^まえ (Ma-E) = in front^まつ (Ma-Tsu) = to wait
+ma0.png,ma1.png,ma2.png,ma3-1.png,ma3-2.png,ma4.png
+@Me
+me.png
+"Me" is the Japanese word for eye, and this character looks like an eye...if eyes had triangular shaped pupils and exactly two eyelashes. Notice how this character is different from the character ぬ(Nu).^^Words you can write:^め (Me) = eye^めし (Me-Shi) = food
+me0.png,me1.png,me2-1.png,me2-2.png,me3.png
+@Mi
+mi.png
+This character looks like "21". You know who is 21? Me[Mi]!...Well, I used to be.^^Words you cna write:^みち (Mi-Chi) = road^いみ (I-Mi) = meaning^みせ (Mi-Se) = store
+mi0.png,mi1-1.png,mi1-2.png,mi2.png,mi3.png
+@Mo
+mo.png
+It's a fishing hook with two worms attached. Because the [Mo]re worms, the more fish!^^Words you an write^もつ (Mo-Tsu) = to carry^もの (Mo-No) = thing/person
+mo0.png,mo1.png,mo2.png,mo3.png,mo4.png
+@Mu
+mu.png
+This one is the face of a cow from the side! What, you don't see it? It's horn is in the upper-left corner, it's ear is in the upper-right corner, and it has a little nose ring on the left...Moo[Mu]!^^Words you can write:^むね (Mu-Ne) = chest^むすめ (Mu-Su-Me) = daughter^のむ (No-Mu) = to drink
+mu0.png,mu1.png,mu2-1.png,mu2-2.png,mu3.png,mu4.png
+*8. R- characters: Ra,Re,Ri,Ro,Ru
+The "r" sound in Japanese is not nearly as thick as it is in English. It is really more of a flip sound, somewhere between an American "r" and an "l".
+@Ra
+ra.png
+See that big cheek and ear? It looks like one half of Bugs Bunny's head. Are bunnies (Ra)bbits? I know rats are different from mice...^^Words you can write:^そら (So-Ra) = sky^くらい (Ku-Ra-I) = dark
+ra0.png,ra1.png,ra2-1.png,ra2-2.png,ra3.png
+@Re
+re.png
+Remember the character ね? This time, instead of holding onto a fishing rod, the person is holding onto a snake (or a (Re)ptile).^^Words you can write:^れきし (Re-Ki-Shi) = history^かれ (Ka-Re) = boy^きれい (Ki-Re-I) = beautiful
+re0.png,re1.png,re2-1.png,re2-2.png,re2-3.png,re3.png
+@Ri
+ri.png
+This is just two rivers running paralel to each other. Though the one on the right is starting to curve in towards the left.^^Words you can write:^もり (Mo-Ri) = forest^りそう (Ri-So-U) = ideal
+ri.0.png,ri1.png,ri2.png,ri3.png
+@Ro
+ro.png
+Notice how this character looks like a "3"? Three rubies (Ro)lled away. But where did the rubies come from? Check out the next character to find out!^^Words you can write:^ろく (Ro-Ku) = six^ろうそく (Ro-U-So-Ku) = candle
+ro0.png,ro1.png,ro2.png
+@Ru
+ru.png
+There they are, the 3 rubies (we must have gone back in time)! By the way, る is the most common verb ending in Japanese.^^Words you can write:^ねる (Ne-Ru) = to sleep^いる　(I-Ru) = to exist^まる (Ma-Ru) = circle
+ru0.png,ru1-1.png,ru1-2.png,ru1-3.png,ru1-4.png,ru2.png
+*9. Y- Characters: Ya,Yo,Yu
+There's only three characters in this lesson. You're welcome! Remember: there is no such thing as Ye or Yi.
+@Ya
+ya.png
+See the big round nose and the two ears? That's a (Ya)k!^^Words you can write:^へや (He-Ya) = room^おや (O-Ya) = Parent^はやい (Ha-Ya-I) = fast
+ya0.png,ya1.png,ya2.png,ya3.png,ya4.png
+@Yo
+yo.png
+It's a (Yo)-yo that is hanging down from somebody's finger.^^Words you can write:^よむ (Yo-Mu) = to read^よてい (Yo-Te-I) = schedule
+yo0.png,yo1.png,yo2-1.png,yo2-2.png,yo3.png
+@Yu
+yu.png
+It looks like somebody tried to make a U-turn[Yu].^^Words you can write:^ゆき (Yu-Ki) = snow^ゆめ (Yu-Me) = dream
+yu0.png,yu1-1.png,yu1-2.png,yu2.png,yu3.png
+*10. Other Characters: Wa,Wo,N
+These are the last characters of the Hiragana! From here on out we will be taking the characters we already know and modify them to create new sounds. This lesson may be labeled "other" but these characters are just as important as any of the others that we learned.
+@Wa
+wa.png
+Remember how our friend Mr. ね was trying to catch a fish? Well, he actually caught a Whale[Wa]! See it's big round head and how it's blowing water out it's spout?^^Words you can write:^よわい (Yo-Wa-I) = weak^わかい (Wa-Ka-I) = young^かわ (Ka-Wa) = river
+wa0.png,wa1.png,wa2-1.png,wa2-2.png,wa2-3.png,wa3.png
+@Wo
+wo.png
+It's a figure skater performing on an ice rink. The skater, by the way, is a (Wo)man. While this app does not address grammar, we will point out that を is a very unique character in that it is not part of any words. Its function is purely grammatical.
+wo0.png,wo1.png,wo2-1.png,wo2-2.png,wo3.png,wo4.png
+@N
+n.png
+The last character, we made it! And it's easy too: after all, it looks just like a lowercase "n". This character is also unique because it is the only hiragana character that does not have a vowel sound in it. Make sure that if ん precedes one of the N-characters, that the two "n" sounds are distinct.^^Words you can write:^へん (He-N) = strange^ほん (Ho-N) = book^こんにちわ (Ko-N-Ni-Chi-Wa) = good afternoon 
+n0.png,n1-1.png,n1-2.png,n2.png
